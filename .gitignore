@@ -1,0 +1,10 @@
+# Ignore Python  files
+__pycache__/
+# Ignore Visual Studio Code files
+.vscode
+"# Ignore IDE specific files"
+.idea
+"# Ignore environment files"
+.env
+"# Ignore Node.js dependenc
+node_modules/
